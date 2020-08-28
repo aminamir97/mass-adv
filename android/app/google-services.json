@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952878653746",
+    "firebase_url": "https://massadvapp.firebaseio.com",
+    "project_id": "massadvapp",
+    "storage_bucket": "massadvapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952878653746:android:dbf94b2ed7383aea57372b",
+        "android_client_info": {
+          "package_name": "com.example.mass_adv_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952878653746-6itnjpms3s70si62ivionijf30sqk5c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWWo3xswahlvO1htsqi9V6gWvmZXRHW90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952878653746-6itnjpms3s70si62ivionijf30sqk5c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
